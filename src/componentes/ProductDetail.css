@@ -1,0 +1,34 @@
+.detalle-producto {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.imagen-producto {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.informacion-producto {
+  h2 {
+    margin-bottom: 10px;
+  }
+
+  p {
+    margin-bottom: 8px;
+  }
+}
+
+.precio {
+  font-weight: bold;
+  color: #333;
+}
+
+.informacion-producto p {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
